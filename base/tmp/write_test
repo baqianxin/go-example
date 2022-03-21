@@ -1,0 +1,3 @@
+直接写入字符串WriteString
+some
+用字节缓冲器写入文本数据 Byte Write Buffered
